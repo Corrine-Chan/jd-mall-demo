@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9384a73-b39d-44a3-af32-64d6e90765bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JspContextManager">
+    <jsp-to-context jsp-file="file://$PROJECT_DIR$/src/main/webapp/home/include/page.jsp" context-file="file://$PROJECT_DIR$/src/main/webapp/home/orderListPage.jsp" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\单机版项目训练及训练资料\正式比赛环境代码\项目运行jar包仓库\maven_repos" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2NG3dN7YTksBS6lozP0tOamoVFp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/tmall",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idjava\tmall\src\main\java\cn\edu\nhic\tmall\controller\home" />
+      <recent name="E:\idjava\tmall\src\main\java\cn\edu\nhic\tmall" />
+      <recent name="E:\idjava\tmall\src\main\resources" />
+      <recent name="E:\idjava\tmall\src\main\webapp" />
+      <recent name="E:\idjava\tmall\src\main\webapp\home" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.edu.nhic.tmall.controller.admin" />
+      <recent name="cn.edu.nhic.tmall.controller.home" />
+      <recent name="cn.edu.nhic.tmall.controller" />
+      <recent name="cn.edu.nhic.tmall" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TmallApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Tmall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.edu.nhic.tmall.TmallApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9384a73-b39d-44a3-af32-64d6e90765bb" name="Default Changelist" comment="" />
+      <created>1679276681024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679276681024</updated>
+      <workItem from="1679276683743" duration="9000" />
+      <workItem from="1679276765363" duration="44000" />
+      <workItem from="1679276900857" duration="3461000" />
+      <workItem from="1679660650668" duration="3366000" />
+      <workItem from="1679664097518" duration="1183000" />
+      <workItem from="1679665295425" duration="4203000" />
+      <workItem from="1679670769071" duration="689000" />
+      <workItem from="1679671475481" duration="2121000" />
+      <workItem from="1685774052463" duration="6967000" />
+      <workItem from="1685781035468" duration="1396000" />
+      <workItem from="1685783696597" duration="1213000" />
+      <workItem from="1685797031459" duration="138000" />
+      <workItem from="1685804171268" duration="37000" />
+      <workItem from="1685924723724" duration="2151000" />
+      <workItem from="1686374929261" duration="4297000" />
+      <workItem from="1686528859455" duration="17000" />
+      <workItem from="1686530805594" duration="558000" />
+      <workItem from="1686534404699" duration="1322000" />
+      <workItem from="1686990908656" duration="165000" />
+      <workItem from="1735133361671" duration="6258000" />
+      <workItem from="1735173498085" duration="6212000" />
+      <workItem from="1735198195956" duration="9561000" />
+      <workItem from="1735455542309" duration="17658000" />
+      <workItem from="1735609443064" duration="9009000" />
+      <workItem from="1735827438817" duration="1908000" />
+      <workItem from="1735874261603" duration="15512000" />
+      <workItem from="1736046520914" duration="3491000" />
+      <workItem from="1737035543306" duration="6000" />
+      <workItem from="1741228167602" duration="333000" />
+      <workItem from="1741244156171" duration="71000" />
+      <workItem from="1741307521988" duration="668000" />
+      <workItem from="1742439385792" duration="4191000" />
+      <workItem from="1742776589576" duration="254000" />
+      <workItem from="1743648992620" duration="2782000" />
+      <workItem from="1743986697355" duration="7421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
